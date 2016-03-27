@@ -62,7 +62,6 @@ $on-laptop:        800px;
 
 .navbar-custom .navbar-nav{
     background-color: $shambles-black;
-    min-height: 130px;
 }
 
 .navbar-custom .navbar-nav > li > a {
@@ -76,24 +75,12 @@ $on-laptop:        800px;
     color: $shambles-red;
 }
 
-.navbar-custom .navbar-brand {
-    position: absolute;
-    width: 100%;
-    left: 0;
-    top: -35%;
-    text-align: center;
-    margin: auto;
-
-    color:white;
-}
-
 .navbar-toggle {
     color: $shambles-red;
 }
 
 .cooper {
     font-family: 'CooperBlack';
-    color: $shambles-red;
 }
 
 .footer {

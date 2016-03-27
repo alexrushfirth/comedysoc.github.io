@@ -4,16 +4,16 @@
 @import "variables";
 
 body {
-  background: url("homepage-bg.jpg") no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background-color: $comedysoc-red;
 }
 
 #title {
   font-size: 400%;
   text-align: center;
+}
+
+#logo {
+  filter: drop-shadow(16px 16px 20px blue);
 }
 
 .subtitle {
