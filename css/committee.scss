@@ -1,0 +1,27 @@
+---
+---
+@charset "utf-8";
+@import "variables";
+
+body {
+  background: url("committee-bg.jpg") no-repeat fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+article {
+  background-color: rgba(0,0,0,0.8);
+  border-radius: 25px;
+  padding: 20px;
+}
+
+.big {
+  font-size: 150%;
+}
+
+.post-content {
+  font-family: "CooperBlack";
+  text-align: center;
+}
