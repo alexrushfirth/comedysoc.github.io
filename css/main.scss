@@ -69,6 +69,10 @@ $on-laptop:        800px;
     font-size: 150%;
 }
 
+.navbar-custom .navbar-brand {
+  color: $shambles-red;
+}
+
 .navbar-custom .navbar-nav > li > a:hover,
 .navbar-custom .navbar-nav > li > a:focus {
     background-color: $shambles-black;
@@ -85,4 +89,8 @@ $on-laptop:        800px;
 
 .footer {
     font-family: 'CooperBlack';
+}
+
+.red {
+  color: $comedysoc-red;
 }

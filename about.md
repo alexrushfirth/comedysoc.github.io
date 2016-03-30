@@ -5,11 +5,18 @@ permalink: /about/
 css: about.css
 ---
 
-<h3><span class="cooper">Comedy</span> scenes made up on the spot</h3>
-<h3>Based on suggestions made by <span class="cooper">you</span></h3>
+Comedy Society at the University of York provides a platform for all people to do all types of comedy.
+We host shows every week of term, all completely written and performed by our members. As well as this we run weekly workshops on <span class="red">Stand Up, Writing and Improv.</span> All of our workshops give you the chance to try out your ideas or get inspiration from others in a <span class="red">pressure free</span> environment.
 
-Formed in 2007 at the University of York, The Shambles originated as a short form improvisational comedy troupe called "The Scabs". Over the years, their reputation evolved (as well as their name) and they have become one of the most loved improv troupes at the Edinburgh Fringe.
+We also go to the Edinburgh Fringe every year in the form of two shows; our sketch show, [Present & Correct](http://www.nouse.co.uk/2015/08/15/edinburgh-fringe-2015-review-present-and-correct/) and our Improv show, [The Shambles]({{site.shambles_website}}).
 
-They perform a range of songs, scenes and games based entirely on your suggestions. Performing throughout the entire Fringe and regularly around York, there's always a chance to catch the fast whit of The Shambles.
+<h3 class="red">I want get involved!</h3>
+Fantastic! The easiest way to get involved is to join our mailing list by emailing [comedysoc@yusu.org](mailto:comedysoc@yusu.org). We also have our own Facebook group which you can join [here.](https://www.facebook.com/groups/1713862662184771/?fref=ts) Keep an eye on our weekly emails to see the times and locations of our workshops as they can change.
 
-Also, they're called The Shambles after <a href="https://en.wikipedia.org/wiki/The_Shambles">this famous road in York.</a> Not because they are bad.
+We also have Facebook groups for each of our workshops which are listed as follows:
+
+- [Writing](https://www.facebook.com/groups/681363162000105/?fref=ts)
+- [Stand up](https://www.facebook.com/groups/281441311890492/?fref=ts)
+- [Improv](https://www.facebook.com/groups/477699455766007/?fref=ts)
+
+All of our workshops are free to attend however, if you'd like to perform in one of our shows, you'll have to pay our low membership fee of <span class="red">£5!</span> You can pay membership [here.](https://www.yusu.org/opportunities/societies/comedy-society)
