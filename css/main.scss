@@ -55,32 +55,26 @@ $on-laptop:        800px;
 ;
 
 .navbar-custom {
-    background-color: $shambles-black;
-    color: #000000;
-    border-radius: 0;
+    background-color: white;
+    color: $comedysoc-red;
+    border-radius: 0 !important;
 }
 
 .navbar-custom .navbar-nav{
-    background-color: $shambles-black;
+    background-color: white;
 }
 
 .navbar-custom .navbar-nav > li > a {
-    color: white;
+    color: $comedysoc-red;
     font-size: 150%;
 }
 
 .navbar-custom .navbar-brand {
-  color: $shambles-red;
-}
-
-.navbar-custom .navbar-nav > li > a:hover,
-.navbar-custom .navbar-nav > li > a:focus {
-    background-color: $shambles-black;
-    color: $shambles-red;
+  color: $comedysoc-red;
 }
 
 .navbar-toggle {
-    color: $shambles-red;
+    color: $comedysoc-red;
 }
 
 .cooper {

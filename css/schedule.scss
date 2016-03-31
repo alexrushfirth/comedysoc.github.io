@@ -1,0 +1,27 @@
+---
+---
+@charset "utf-8";
+@import "variables";
+
+body {
+  // background: url("see-bg.jpg") no-repeat center center fixed;
+  // -webkit-background-size: cover;
+  // -moz-background-size: cover;
+  // -o-background-size: cover;
+  // background-size: cover;
+}
+
+.subtitle {
+  text-align: center;
+}
+
+.page-content {
+  font-family: "CooperBlack";
+  color: white;
+}
+
+article {
+  background: rgba(0,0,0,0.8);
+  border-radius: 25px;
+  padding: 20px;
+}
