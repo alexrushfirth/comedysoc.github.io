@@ -13,6 +13,7 @@ css: schedule.css
           <th>Date</th>
           <th>Time</th>
           <th>Description</th>
+          <th>Location</th>
         </tr>
 
         {% for show in site.data.schedule %}
@@ -22,6 +23,7 @@ css: schedule.css
               <td>{{ show.datetime | date_to_string }}</td>
               <td>{{ show.datetime | date: "%H:%M" }}</td>
               <td>{{ show.description }}</td>
+              <td>{{ show.location }}</td>
             </tr>
           {% endif %}
       {% endfor %}
