@@ -6,3 +6,6 @@
 
 - icon: "<i class=\"fa fa-youtube-play\" title=\"Youtube\"></i>"
   url: "https://www.youtube.com/channel/UCofjDPGHds_L2xAOTuzlKfQ"
+
+- icon: "<i class=\"fa fa-television\" title=\"YSTV\"></i>"
+  url: "https://ystv.co.uk/watch/comedysoc/"
