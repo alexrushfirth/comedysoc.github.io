@@ -1,12 +1,12 @@
-- name: Writing
-  group-link: https://www.facebook.com/groups/681363162000105/?fref=ts
-  location: Usually in D/L/116 but can vary. Please check the Facebook group for the latest update
-  datetimestring: 14:00 on Saturdays
-
 - name: Stand up
   group-link: https://www.facebook.com/groups/281441311890492/?fref=ts
   location: D/L/049
   datetimestring: 13:00 on Sundays
+  
+- name: Writing
+  group-link: https://www.facebook.com/groups/681363162000105/?fref=ts
+  location: D/L/049
+  datetimestring: 16:00 on Sundays
 
 - name: Open Improv
   group-link: https://www.facebook.com/groups/477699455766007/?fref=ts
